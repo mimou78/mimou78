@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi everyone welcome to my GitHub account 👋
+
+I have been a certified Magento expert since 2012. Before Magento I was an expert PHP developer on different areas of the web, and more specifically on e-commerce. 
+
+## Social
+- Email: [mimou78@gmail.com](mailto:mimou78@gmail.com)
+- Twitter: [@Mohamed45007130](https://twitter.com/Mohamed45007130)
+- LinkedIn: [mohamed-el-mrabet-magento](https://www.linkedin.com/in/mohamed-el-mrabet-magento/)
+
 
 <!--
 **mimou78/mimou78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
